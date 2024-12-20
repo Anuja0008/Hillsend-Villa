@@ -1,0 +1,11 @@
+
+  If you only want to apply it to the title
+  .main-title {
+    font-family: 'Times New Roman', serif;
+  }
+  
+  /* If you want to apply it to the text within each card */
+  .card-text {
+    font-family: 'Times New Roman', serif;
+  }
+  

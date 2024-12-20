@@ -1,0 +1,34 @@
+/* For the first image */
+.enlarged-img {
+    width: 100%;              /* Ensures the image takes the full width of its container */
+    height: 300px;            /* Set a specific height to prevent the image from expanding too much */
+    object-fit: cover;        /* Ensures the image maintains its aspect ratio and covers the container */
+    margin-bottom: 20px;      /* Optional: Adds space between images */
+  }
+  
+  /* For the second image */
+  .second-img {
+    width: 100%;              /* Ensures the image takes the full width of its container */
+    height: 250px;            /* Set a specific height for the second image */
+    object-fit: cover;        /* Ensures the image maintains its aspect ratio and covers the container */
+    margin-bottom: 20px;      /* Optional: Adds space below the second image */
+  }
+  
+  /* Adjust container styles if needed */
+  .container {
+    padding: 0 15px; /* Optional: Adds some padding around the container */
+  }
+  
+  .text-center {
+    text-align: center; /* Ensures the text is centered */
+  }
+  /* Apply Times New Roman font to the entire about section
+.about {
+    font-family: 'Times New Roman', serif;
+  } */
+  
+  /* If you only want to apply it to the paragraph text */
+  .main-p {
+    font-family: 'Times New Roman', serif;
+  }
+  
